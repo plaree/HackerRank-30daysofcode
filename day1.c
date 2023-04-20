@@ -1,3 +1,8 @@
+/*
+scanf("%*[\n] %[^\n]", s2);
+Uzun stringleri bu şekilde tanımlamak mı gerekiyor? neden? 
+bu kısmı anlamadım... Daha çok Çalışmalıyım.
+*/
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
